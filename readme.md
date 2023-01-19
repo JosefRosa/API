@@ -1,6 +1,6 @@
 ## Ověřování Hesel
 Předem bych chtěl říct, že toto API jsme nedělal já, ale Tomáš Fujera já ho pouze popisuji a říkám co dělá.
-##Funkce
+## Funkce
 - Do api zádáte heslo a ono vám ověří zda je pravdivé či ne
 APi které zde je vidíte ověřuje hesla 
 ## Nazev souboru
@@ -9,3 +9,8 @@ APi které zde je vidíte ověřuje hesla
 - Ověřuje hesla 
 - Napsano v PHP 
 - Kodovano v UTF-8
+## Jak API spustit 
+- nejdříve se ujistěte že máte dobře nastavený a naistalovaný php compiler nebo datábazi kam chceme umístit toto api
+- Dále umístěte php kód  
+- Spusťte
+- A dále jen zadejte heslo, které chcete ověřit
